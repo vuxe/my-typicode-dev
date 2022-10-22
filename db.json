@@ -22,14 +22,14 @@
                         "Aloy",
                         "Noelle",
                         "Razor",
-                        "Bennet",
+                        "Bennett",
                         "Mona",
                         "Jean",
                         "Diluc",
                         "Eula",
                         "Lisa",
                         "Fischl",
-                        "Keaya",
+                        "Kaeya",
                         "Venti",
                         "Albedo",
                         "Rosaria"
@@ -45,7 +45,7 @@
                     ],
                     "location": "Liyue",
                     "characters": [
-                        "Ninguang",
+                        "Ningguang",
                         "Keqing",
                         "Qiqi",
                         "Xiao",
@@ -54,10 +54,10 @@
                         "Xiangling",
                         "Chongyun",
                         "Ganyu",
-                        "Hu Tao",
+                        "Hutao",
                         "Kazuha",
-                        "Yun Jin",
-                        "Xinngqiu",
+                        "Yunjin",
+                        "Xingqiu",
                         "Beidou",
                         "Xinyan",
                         "Zhongli",
@@ -76,17 +76,17 @@
                     "characters": [
                         "Yoimiya",
                         "Kokomi",
-                        "Thomas",
-                        "Heizou",
+                        "Thoma",
+                        "Heizo",
                         "Ayaka",
                         "Sara",
                         "Itto",
                         "Shinobu",
                         "Ayato",
                         "Sayu",
-                        "Raiden Shogun",
+                        "Shoungun",
                         "Gorou",
-                        "Yae Miko"
+                        "Yae"
                     ]
                 },
                 {
@@ -158,7 +158,7 @@
                         "Yoimiya",
                         "Kokomi",
                         "Thoma",
-                        "Heizou"
+                        "Heizo"
                     ]
                 },
                 {
@@ -189,7 +189,7 @@
                     "characters": [
                         "Noelle",
                         "Razor",
-                        "Bennet",
+                        "Bennett",
                         "Mona",
                         "Jean",
                         "Diluc",
@@ -207,9 +207,9 @@
                         "Xiangling",
                         "Chongyun",
                         "Ganyu",
-                        "Hu Tao",
+                        "Hutao",
                         "Kazuha",
-                        "Yun Jin"
+                        "Yunjin"
                     ]
                 },
                 {
@@ -255,7 +255,7 @@
                     "characters": [
                         "Lisa",
                         "Fischl",
-                        "Keaya",
+                        "Kaeya",
                         "Venti",
                         "Albedo",
                         "Rosaria"
@@ -269,7 +269,7 @@
                     ],
                     "location": "Liyue",
                     "characters": [
-                        "Xinngqiu",
+                        "Xingqiu",
                         "Beidou",
                         "Xinyan",
                         "Zhongli",
@@ -285,9 +285,9 @@
                     "location": "Inazuma",
                     "characters": [
                         "Sayu",
-                        "Raiden Shogun",
+                        "Shoungun",
                         "Gorou",
-                        "Yae Miko"
+                        "Yae"
                     ]
                 },
                 {
